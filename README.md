@@ -41,6 +41,7 @@ if (!succeed) {
   console.log("Finally! I knew persistence would pay off (after only a thousand attempts). 🎊");
 }
 
+<br>
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
@@ -48,7 +49,6 @@ npx nishant-card
 ```
 **👆 This command line tool can be found at [npx nishant-card](https://github.com/NisantSinghhhhhh/Nishant_NPM)**
 ```
-
 ## My Open source achivements:
   <a href= "https://meshery.layer5.io/user/159976fa-9613-46f3-8cba-5aaa38bba2cb?tab=badges&badge=hacktoberfest-24-contributor" >
     <img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/hacktoberfest-contributor-2024/layer5-hacktoberfest-badge-2024.png" alt = "Hacktoberfest '24 Contributor" />
