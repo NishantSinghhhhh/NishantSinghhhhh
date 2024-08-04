@@ -40,11 +40,11 @@ if (!succeed) {
   party();
   console.log("Finally! I knew persistence would pay off (after only a thousand attempts). 🎊");
 }
+```bash
 
 <br>
 👇 Hit in your console or terminal to connect with me.
 
-```bash
 npx nishant-card
 ```
 **👆 This command line tool can be found at [npx nishant-card](https://github.com/NisantSinghhhhhh/Nishant_NPM)**
