@@ -44,11 +44,10 @@ if (!succeed) {
 <br>
 👇 Hit in your console or terminal to connect with me.
 
+```
 npx nishant-card
-
 ```
 **👆 This command line tool can be found at [npx nishant-card](https://github.com/NisantSinghhhhhh/Nishant_NPM)**
-```
 
 ## My Open source achivements:
   <a href= "https://meshery.layer5.io/user/159976fa-9613-46f3-8cba-5aaa38bba2cb?tab=badges&badge=hacktoberfest-24-contributor" >
