@@ -105,9 +105,9 @@ npx nishant-card
 </p>
 
 
-<h3 align="left">Github Streak:</h3>
+## <h3 align="left">Github Streak:</h3>
 
-![NishantSinghhhhh's Stats](https://github-readme-streak-stats.herokuapp.com/?user=nishantsinghhhhh&)
+## ![NishantSinghhhhh's Stats](https://github-readme-streak-stats.herokuapp.com/?user=nishantsinghhhhh&)
 
 <h3 align="left">Languages and Tools:</h3>
 
