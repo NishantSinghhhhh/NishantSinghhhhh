@@ -12,7 +12,7 @@
 ```js
 const Nishant = {
   pronouns: "He" | "His",
-  status: "Student",
+  status: "open source Contributer",
   contact: "nishant.1703.developer@gmail.com",
   hobbies: ["Debugging life", "Collecting code errors", "Dreaming in JavaScript", "Pretending to be a computer"],
   experience: {
