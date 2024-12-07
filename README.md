@@ -104,10 +104,10 @@ npx nishant-card
 <a href="https://linkedin.com/in/nishant-singh-8a5a00282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant-singh-8a5a00282" height="30" width="40" /></a>
 </p>
 
-
+<!--
 ## <h3 align="left">Github Streak:</h3>
 ## ![NishantSinghhhhh's Stats](https://github-readme-streak-stats.herokuapp.com/?user=nishantsinghhhhh&)
-
+-->
 <h3 align="left">Languages and Tools:</h3>
 
 ![NishantSinghhhhh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NishantSinghhhhh&theme=great-gatsby&show_icons=true&hide_border=false&layout=compact)
