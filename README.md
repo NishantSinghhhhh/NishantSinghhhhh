@@ -74,7 +74,7 @@ npx nishant-card
 
 - 👨‍💻 All of my projects are available at [https://portfolio-01-rust.vercel.app/](https://portfolio-01-rust.vercel.app/)
 
-- 💬 Ask me about **Full Stack Development**
+- 💬 Ask me about **Full Stack Development , NextJs **
 
 - 📫 How to reach me **nishant.1703.developer@gmail.com**
 
