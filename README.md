@@ -2,7 +2,7 @@
 <h3 align="center">I am a passionate developer with a keen interest in backend, blockchain, and Web3 technologies, constantly working on innovative projects to enhance my skills and make an impact in the tech world.</h3>
 <br>
 
-### About me 
+## About me 
 
 <!-- <div style="width:100%;height:0;padding-bottom:54%;position:relative;">
   <img src="giphy.webp"  alt="Description of image">
